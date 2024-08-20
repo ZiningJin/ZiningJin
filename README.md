@@ -27,7 +27,7 @@ Got my Data Science and Business Analytics Master Degree from Bocconi University
 <br></br>
 <EComTracker>
   <a href="https://github.com/ZiningJin/LeadsTracker">
-    <p>B2B Web Leads Crawler</p>
+    <p>ECommerce Leads Tracker: analysis & automation</p>
   </a>
   <ul align="left">
     <li>Automatically Tracking ECommerce stores leads generation - sales processing - conversion funnel</li>
